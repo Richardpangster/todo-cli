@@ -1,0 +1,5 @@
+# Runtime dependencies
+# (stdlib only — no third-party runtime deps required)
+
+# Development / testing
+pytest>=7.0
